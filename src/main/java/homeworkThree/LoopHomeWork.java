@@ -47,7 +47,7 @@ public class LoopHomeWork {
                 }
             }
             if(flag==0)  { System.out.println(primeNumber+" nav pirmskaitlis"); }
-            System.in.read();
+         //   System.in.read();
         }
 
         //3. uzdevums
