@@ -1,9 +1,6 @@
-package homeworkFive;
+package homeworkEight;
 
 import java.util.Date;
-
-public class Customer {
-}
 
 
 public class Customer {
